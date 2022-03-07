@@ -4,11 +4,11 @@ This repo contains some examples of how to use the Google-Earth-Engine-API (GEE-
 ## Usage 
 You can clone this repo in a terminal by typing 
 
-                C:\Users\SuI\Documents\code\>git clone https://ngi001@dev.azure.com/ngi001/NGI/_git/google-earth-engine-API-example
+        C:\Users\SuI\Documents\code\>git clone https://ngi001@dev.azure.com/ngi001/NGI/_git/google-earth-engine-API-example
 
 Change into the new directory 
 
-            C:\Users\SuI\Documents\code\> cd google-earth-engine-API-example     
+        C:\Users\SuI\Documents\code\> cd google-earth-engine-API-example     
 
 and strat a vritual environment from the command line 
 
@@ -23,7 +23,7 @@ First time you use the code in this repo you need to install the dependencies of
 
 Then you can either run the [notebook through VSC](https://code.visualstudio.com/learn/educators/notebooks) or through your browser by the command 
 
-            (google-earth-engine-API-example-jOx4Q0kO-shims) C:\Users\SuI\Documents\code\google-earth-engine-API-example> jupyter-lab     
+        (google-earth-engine-API-example-jOx4Q0kO-shims) C:\Users\SuI\Documents\code\google-earth-engine-API-example> jupyter-lab     
 
 ### Tips 
 Some other examples of how to use the API with [python scripts](https://github.com/google/earthengine-api/tree/master/python/examples/py) and [jupyter notebooks](https://github.com/google/earthengine-api/tree/master/python/examples/ipynb). 
