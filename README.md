@@ -32,7 +32,8 @@ Then you can either run the [notebook through VSC](https://code.visualstudio.com
         (google-earth-engine-API-example-jOx4Q0kO-shims) C:\Users\SuI\Documents\code\google-earth-engine-API-example> jupyter-lab     
 
 ### Tips 
-Some other examples of how to use the API with [python scripts](https://github.com/google/earthengine-api/tree/master/python/examples/py) and [jupyter notebooks](https://github.com/google/earthengine-api/tree/master/python/examples/ipynb). 
+- Another repo on NGI Natural Hazards project contains a thorough tutorial of the geemap package, a valuable package for adding visualization functionality the GEE Python API. Strongly recommneded to work through it!
+- Some other examples of how to use the API with [python scripts](https://github.com/google/earthengine-api/tree/master/python/examples/py) and [jupyter notebooks](https://github.com/google/earthengine-api/tree/master/python/examples/ipynb). 
 
 ## Dependencies
 To run the code in this repo you need to have installed 
