@@ -4,7 +4,7 @@ This repo contains some examples of how to use the Google-Earth-Engine-API (GEE-
 ## Usage 
 You can clone this repo in a terminal by typing
 
-        C:\Users\<USERNAME>\Documents\code\>git clone https://ngi001@dev.azure.com/ngi001/NGI/_git/google-earth-engine-API-example
+        C:\Users\<USERNAME>\Documents\code\>git clone https://ngi001@dev.azure.com/ngi001/NGI%20Natural%20Hazards/_git/google-earth-engine-API-example
 
 Change into the new directory 
 
@@ -27,7 +27,7 @@ Error messages such as the following can be ignored:
 1. Ignoring pexpect: markers 'sys_platform != "win32"' don't match your environment
 2. Ignoring ptyprocess: markers 'os_name != "nt"' don't match your environment
 
-Then you can either run the [notebook through VSC](https://code.visualstudio.com/learn/educators/notebooks) or through your browser by the command 
+Then you can either run the notebook on a browser by using the following terminal command or run the [notebook through VSC](https://code.visualstudio.com/learn/educators/notebooks).
 
         (google-earth-engine-API-example-jOx4Q0kO-shims) C:\Users\SuI\Documents\code\google-earth-engine-API-example> jupyter-lab     
 
