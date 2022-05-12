@@ -17,7 +17,7 @@ and start a virtual environment from the command line
         Microsoft Windows [Version 10.0.19043.1526]
         (c) Microsoft Corporation. All rights reserved.
 
-If instead you get an error message "'pipenv is not recognized...", try instead the command 'python -m pipenv shell'
+If instead you get an error message "'pipenv is not recognized...", try instead the command `python -m pipenv shell`
 
 First time you use the code in this repo you need to install the dependencies of the virtual environment (note, the string in parentheses indicates you are within a virtual environment)
 
