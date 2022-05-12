@@ -4,7 +4,7 @@ This repo contains some examples of how to use the Google-Earth-Engine-API (GEE-
 ## Usage 
 You can clone this repo in a terminal by typing
 
-        C:\Users\<USERNAME>\Documents\code\>git clone https://ngi001@dev.azure.com/ngi001/NGI/_git/google-earth-engine-API-example
+        C:\Users\<USERNAME>\Documents\code\>git clone https://ngi001@dev.azure.com/ngi001/NGI%20Natural%20Hazards/_git/google-earth-engine-API-example
 
 Change into the new directory 
 
